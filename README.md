@@ -31,7 +31,7 @@ Les données utilisées pour ce tableau de bord incluent :
 ---
 
 ## 🖼️ **Aperçu du Tableau de Bord**
-![Dashboard - Signalements Paris](dashboard_signalements_paris.png)
+![Dashboard - Signalements Paris](dashboard_signalements_paris.jpg)
 
 📊 **Fonctionnalités principales du tableau de bord :**  
 ✅ **Cartographie des signalements** pour identifier les zones les plus touchées.  
