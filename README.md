@@ -52,7 +52,7 @@ Les données utilisées pour ce tableau de bord incluent :
 
 ## 📂 **Fichiers du projet**
 - 📊 **[`dashboard_signalements_paris.twb`](dashboard_signalements_paris.twb)** : Fichier Tableau contenant les visualisations.
-- 🖼️ **[`dashboard_signalements_paris.png`](dashboard_signalements_paris.png)** : Capture du tableau de bord final.
+- 🖼️ **[`dashboard_signalements_paris.jpg`](dashboard_signalements_paris.jpg)** : Capture du tableau de bord final.
 - 📝 **`README.md`** : Explication complète du projet.
 
 ---
