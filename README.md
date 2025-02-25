@@ -1,5 +1,7 @@
 # 🚔 Tableau de Bord : Suivi des Signalements Urbains à Paris
 
+![Technologie](https://img.shields.io/badge/Tech-Tableau-blue)
+
 ## 📌 Contexte du Projet
 Ce projet propose un **tableau de bord interactif** réalisé avec **Tableau** permettant de suivre et analyser les **signalements urbains à Paris**.  
 Le tableau de bord est destiné aux :  
