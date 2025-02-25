@@ -40,12 +40,6 @@ Les données utilisées pour ce tableau de bord incluent :
 ✅ **Suivi des interventions par équipe** pour optimiser la répartition des ressources.  
 ✅ **Comparaison des arrondissements** en fonction du nombre de signalements.  
 
-
----
-
-## 🖼️ **Tableau Final**
-![Airbnb Data Visualization](dashboard_signalements_paris.png)
-
 ---
 
 ## 🚀 **Utilisation du Tableau de Bord**
