@@ -62,4 +62,4 @@ Si vous avez des questions ou souhaitez discuter du projet :
 - **📩 Email** : nada.fakihani@gmail.com
 - **🔗 LinkedIn** : [Nada Fakihani](https://www.linkedin.com/in/nadafakihani/)
 
-📌 **Contributions bienvenues !** Feel free to submit issues or suggestions.
+**Contributions bienvenues !** Feel free to submit issues or suggestions.
